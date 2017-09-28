@@ -1,3 +1,3 @@
 # Orange's blog
 
-link: [Orange's blog](https://oranjixu.github.io/)
+link: [Orange's blog](https://oranjixu.github.io/blog/)
