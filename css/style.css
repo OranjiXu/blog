@@ -405,4 +405,37 @@ section.success {
   overflow: hidden;
   width: 100%;
 }
-
+.note{
+	border-radius:5px;
+	padding:0px 0px;
+	max-width:600px;
+	height:35px;
+	font-size:24px;
+	transition: all 0.3s linear;
+	border-bottom:1px;
+	border-right:1px;
+	border-style:solid;
+	border-color:#4F4F4F;
+	margin-bottom:5px;
+}
+.note:hover{
+	background-color:#FFF3EE;
+	cursor:pointer;
+}
+.note a{
+	color:#4F4F4F;
+	text-decoration:none;
+}
+.note .note_date{
+	color:white;
+	font-size:12px;
+	background-color:#4F4F4F;
+	display:inline;
+	height:100%;
+	border-radius:3px;
+	padding:3px;
+	top:-12px;
+	left:-1px;
+	position:relative;
+	margin-right:5px;
+}
